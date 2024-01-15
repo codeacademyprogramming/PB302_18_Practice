@@ -1,0 +1,14 @@
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\elchin\Desktop\CodeLessons\18. 15-01-2024\15012024\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
